@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA0B60-4E2E-4D6E-AABF-5E77479BA302}|src\\Core\\Domain\\Domain.csproj|c:\\users\\kamal\\desktop\\csharp\\healthcare\\src\\core\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA0B60-4E2E-4D6E-AABF-5E77479BA302}|src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA0B60-4E2E-4D6E-AABF-5E77479BA302}|src\\Core\\Domain\\Domain.csproj|c:\\users\\kamal\\desktop\\csharp\\healthcare\\src\\core\\domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA0B60-4E2E-4D6E-AABF-5E77479BA302}|src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA0B60-4E2E-4D6E-AABF-5E77479BA302}|src\\Core\\Domain\\Domain.csproj|c:\\users\\kamal\\desktop\\csharp\\healthcare\\src\\core\\domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AA0B60-4E2E-4D6E-AABF-5E77479BA302}|src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\entities\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13AA0B60-4E2E-4D6E-AABF-5E77479BA302}|src\\Core\\Domain\\Domain.csproj|c:\\users\\kamal\\desktop\\csharp\\healthcare\\src\\core\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{13AA0B60-4E2E-4D6E-AABF-5E77479BA302}|src\\Core\\Domain\\Domain.csproj|solutionrelative:src\\core\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Core\\Domain\\Entities\\Patient.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Domain\\Entities\\Patient.cs",
+              "ToolTip": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Core\\Domain\\Entities\\Patient.cs",
+              "RelativeToolTip": "src\\Core\\Domain\\Entities\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:10:07.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Core\\Domain\\Entities\\Doctor.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Domain\\Entities\\Doctor.cs",
+              "ToolTip": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Core\\Domain\\Entities\\Doctor.cs",
+              "RelativeToolTip": "src\\Core\\Domain\\Entities\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:10:06.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Core\\Domain\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "src\\Core\\Domain\\Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Core\\Domain\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "src\\Core\\Domain\\Common\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T21:10:04.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Domain",
+              "DocumentMoniker": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Core\\Domain\\Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Core\\Domain\\Domain.csproj",
+              "ToolTip": "C:\\Users\\Kamal\\Desktop\\CSharp\\Healthcare\\src\\Core\\Domain\\Domain.csproj",
+              "RelativeToolTip": "src\\Core\\Domain\\Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-24T21:09:59.831Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
